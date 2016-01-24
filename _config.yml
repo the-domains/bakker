@@ -1,0 +1,28 @@
+name: Bakker
+favicon: null
+layout_spectrum: 0.22691527986899018
+typography_spectrum: 0.4841823950409889
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4229385210201144
+  lightness: 0.29572065477259457
+  saturation: 0.7241872258018702
+  rhythmicContrast: 0.06249935063533485
+purpose: []
